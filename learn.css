@@ -1,0 +1,66 @@
+/*النجمة للتحديد على الكل */
+
+
+*{ 
+ color: brown;
+ margin: 0 auto;
+ text-align: center;
+
+                                                       
+
+
+}
+h1{
+ color: white;
+}
+#tex_pa{
+    font-size: 30px;
+    color: beige;
+    padding: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /*نوع الخط */
+}
+#img{ /* طريقة اضافة صورة في الخلفية*/
+    background-image: url(gigachad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    color: azure;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h11{                                /*#لل id والنقطةللكلاس*/
+    background-color: blueviolet;
+    padding: 10px;
+}
+#head1{
+    
+    background-color: orange;
+    height: 200px;
+}
+h2{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#h11{
+    
+    background-color: blueviolet;
+    padding: 10px;
+}
+.yello{
+    color: black;
+}
+#head2{
+  
+}
+#tex_par{
+    background-image: url(gigachad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:550px;
+    font-size: 30px;
+    color: beige;
+    padding: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /*نوع الخط */
+}
