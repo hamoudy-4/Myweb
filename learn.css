@@ -42,11 +42,12 @@ h1{
 h2{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 #h11{
     
     background-color: blueviolet;
-    padding: 10px;
+    padding: 40px;
 }
 .yello{
     color: black;
